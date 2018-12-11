@@ -1,0 +1,4 @@
+
+	fetch = +refs/heads/*:refs/remotes/origin/*
+qweopqwkeiqwejqweqwlkejqwlke
+	fetch = +refs/heads/*:refs/remotes/origin/*
